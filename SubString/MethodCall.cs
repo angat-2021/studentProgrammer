@@ -22,7 +22,7 @@
                 //if there is nothing in between the braces.
                 if ((indexFirstRightCurlyBrace - indexFirstLeftCurlyBrace) == 1)
                 {
-
+                    //not asked in the question
                     return "There is nothing in between the braces";
                 }
                 else
