@@ -1,6 +1,4 @@
-﻿
-
-namespace SubString
+﻿namespace SubString
 {
     public class MethodCall
     {
